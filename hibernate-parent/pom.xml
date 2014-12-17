@@ -563,14 +563,14 @@
 
     <distributionManagement>
         <repository>
-            <id>jboss-releases-repository</id>
-			<name>JBoss Releases Repository</name>
-            <url>https://repository.jboss.org/nexus/service/local/staging/deploy/maven2/</url>
+            <id>cipal-swf-releases-repository</id>
+			<name>CIPAL SWF Releases</name>
+            <url>http://ontw-java-01.int.cipal.be:8081/nexus/content/repositories/swf-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>jboss-snapshots-repository</id>
-            <name>JBoss Snapshot Repository</name>
-            <url>https://repository.jboss.org/nexus/content/repositories/snapshots/</url>
+            <id>cipal-swf-snapshots-repository</id>
+            <name>CIPAL SWF Snapshots</name>
+            <url>http://ontw-java-01.int.cipal.be:8081/nexus/content/repositories/swf-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
