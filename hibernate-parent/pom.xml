@@ -63,9 +63,9 @@
 	    <!--<connection>scm:git:git//github.com:hibernate/hibernate-core.git</connection>
         <developerConnection>scm:git:git//github.com:hibernate/hibernate-core.git</developerConnection>
         <url>http://github.com/hibernate/hibernate-core</url>-->
-	    <connection>scm:git:https://github.com/cjsr/hibernate-core.git</connection>
-        <developerConnection>scm:git:https://github.com/cjsr/hibernate-core.git</developerConnection>
-        <url>http://github.com/cjsr/hibernate-core</url>
+	    <connection>scm:git:https://github.com/cjsr/hibernate-orm.git</connection>
+        <developerConnection>scm:git:https://github.com/cjsr/hibernate-orm.git</developerConnection>
+        <url>http://github.com/cjsr/hibernate-orm</url>
     </scm>
 
     <ciManagement>
